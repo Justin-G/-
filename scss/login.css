@@ -32,7 +32,7 @@
 .LoginPage .LoginPageContent .LoginPageContentTitle #title {
   color: blue;
   font-weight: bold;
-  font-size: 3.5em;
+  font-size: 3em;
   text-align: center;
 }
 .LoginPage .LoginPageContent .LoginPageContentTitle #description {
