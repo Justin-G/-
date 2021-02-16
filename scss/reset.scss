@@ -1,0 +1,30 @@
+*{
+  margin:0;
+  padding:0;
+
+}
+
+a{
+  font-size:12px;
+  text-decoration:0;
+  color:#222;
+}
+
+a,input,button{
+  outline: none;
+}
+
+ul,ol,li{
+  list-style:none;
+}
+
+@for $i from 1 through 6 {
+  h#{$i}{
+    font-weight:100;
+  }
+}
+
+img{
+  display: block;
+  border: 0;
+}

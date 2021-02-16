@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  font-size: 12px;
+  text-decoration: 0;
+  color: #222;
+}
+
+a, input, button {
+  outline: none;
+}
+
+ul, ol, li {
+  list-style: none;
+}
+
+h1 {
+  font-weight: 100;
+}
+
+h2 {
+  font-weight: 100;
+}
+
+h3 {
+  font-weight: 100;
+}
+
+h4 {
+  font-weight: 100;
+}
+
+h5 {
+  font-weight: 100;
+}
+
+h6 {
+  font-weight: 100;
+}
+
+img {
+  display: block;
+  border: 0;
+}
+
+/*# sourceMappingURL=reset.css.map */
